@@ -23,6 +23,11 @@ section {
   padding: 5%;
   position: relative;
 }
+
+section#apo {
+  background-image: url(../img/apo.jpg);
+}
+
 section#start {
   background-image: url(../img/start.jpg);
 }
@@ -44,6 +49,14 @@ section#next {
 section#time {
   background-image: url(../img/colorrun.jpg);
 }
+section#Xmas {
+  background-image: url(../img/Xmas.jpg);
+}
+
+section#Xmas {
+  background-image: url(../img/NY.jpg);
+}
+
 section#last {
   background-image: url(../img/last.jpg);
 }
